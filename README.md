@@ -1,2 +1,2 @@
 # PettyFriend_ Oscar Rodriguez
-# PettyFriend_ Yoan Marín
+# PettyFriend_ Joan Marín
